@@ -1,0 +1,2 @@
+schedules:
+ reportTime: 8,16,24 * * * * *
